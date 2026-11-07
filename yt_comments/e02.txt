@@ -1,0 +1,146 @@
+第 2 集「追不上光」參考資料：依影片中第一次提到的時間排列，點時間可以跳到那一段。
+
+▍開場
+00:12 銅線裡的電子一分鐘走不到三公分、電的訊號很快
+  OpenStax University Physics Vol.2 §9.2 例 9.3　https://openstax.org/books/university-physics-volume-2/pages/9-2-model-of-conduction-in-metals
+  HyperPhysics 微觀電流　https://hyperphysics.gsu.edu/hbase/electric/miccur.html
+00:32 光速、燈光到眼睛約一億分之一秒、LED 晶片多快亮起
+  BIPM CGPM 1983 決議 1　https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-1
+  Leeds arXiv 1011.1954　https://arxiv.org/abs/1011.1954
+01:04 十六歲的愛因斯坦想像追著一道光
+  Norton, Chasing a Beam of Light（Pitt）　https://sites.pitt.edu/~jdnorton/Goodies/Chasing_the_light/index.html
+  Norton, Chasing the Light 論文　https://sites.pitt.edu/~jdnorton/papers/Chasing.pdf
+01:26 伽利略 1638 年的提燈實驗
+  Siena College 講義（Crew 英譯節錄）　https://facultyweb.siena.edu/~jcummings/teaching/modernlab/instr/galileo.pdf
+01:26 1983 年起光速成為定值，用光定義一公尺
+  BIPM CGPM 1983 決議 1　https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-1
+01:47 清華大學的研究用反應器
+  清大 THOR 官方頁　https://thor.site.nthu.edu.tw/p/16-1192-253397.php?Lang=en
+  曼徹斯特大學部落格　https://www.sites.se.manchester.ac.uk/nuclearhitchhiker/?p=1442
+01:47 從淡水到奧勒岡的海纜
+  TeleGeography 海纜資料：FASTER　https://www.submarinecablemap.com/api/v3/cable/faster.json
+
+▍按下開關以後
+04:35 台灣的交流電，電子一秒來回約六十次
+  LibreTexts Berea Introductory Physics 19.5　https://phys.libretexts.org/Courses/Berea_College/Introductory_Physics%3A_Berea_College/19%3A_Electric_Current/19.05%3A_Alternating_voltages_and_currents
+  iThome 2024-10-11　https://www.ithome.com.tw/news/165436
+05:56 光一秒繞赤道七圈半
+  NASA Earth Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+06:05 高鐵時速 300 公里、台北到左營
+  行政院：高鐵時速 300 公里　https://www.ey.gov.tw/state/A44E5E33CDA7E738/5930b373-fd7d-4d8f-87e8-7f6ff15c67a7
+  Wikipedia: THSR　https://en.wikipedia.org/wiki/Taiwan_High_Speed_Rail
+
+▍想抓住光的人
+09:58 羅默與木衛一，光要花時間
+  AMNH　https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/ole-roemer-speed-of-light
+  Britannica: Ole Rømer　https://www.britannica.com/biography/Ole-Romer
+  Wikipedia: Rømer's determination　https://en.wikipedia.org/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light
+12:03 布拉德雷與光行差：光從太陽到地球八分十二秒
+  MacTutor: Bradley　https://mathshistory.st-andrews.ac.uk/Biographies/Bradley/
+  Britannica: James Bradley　https://www.britannica.com/biography/James-Bradley
+  HyperPhysics 光行差　https://hyperphysics.gsu.edu/hbase/Relativ/star.html
+  Wikipedia: Aberration　https://en.wikipedia.org/wiki/Aberration_%28astronomy%29
+
+▍齒輪和鏡子
+14:43 斐索的齒輪實驗
+  Skulls in the Stars（逐句對照原始法文論文）　https://skullsinthestars.com/2008/03/31/fizeaus-experiment-the-original-paper/
+  Wikipedia: Fizeau's measurement　https://en.wikipedia.org/wiki/Fizeau%27s_measurement_of_the_speed_of_light_in_air
+16:39 傅科的旋轉鏡：光在水裡比較慢
+  MacTutor: Foucault　https://mathshistory.st-andrews.ac.uk/Biographies/Foucault/
+  皇家學會訃聞　https://mathshistory.st-andrews.ac.uk/RS/foucault_rs.pdf
+  Wikipedia: Foucault's measurements　https://en.wikipedia.org/wiki/Foucault%27s_measurements_of_the_speed_of_light
+19:03 邁克生在威爾遜山量光速
+  otherhand.org 南加州光速量測史　https://otherhand.org/home-page/physics/historical-speed-of-light-measurements-in-southern-california/the-mount-wilson-mount-san-antonio-measurements-1922-1926/
+  Illinois Ask the Van　https://van.physics.illinois.edu/ask/listing/20351
+
+▍光是什麼
+20:03 馬克士威算出電磁波速度等於光速
+  Epsilon：致法拉第書信　https://epsilon.ac.uk/view/faraday/letters/Faraday4081
+  Wikipedia: On Physical Lines of Force　https://en.wikipedia.org/wiki/On_Physical_Lines_of_Force
+21:52 邁克生和莫雷找不到以太風
+  APS News 2007-11　https://www.aps.org/publications/apsnews/200711/physicshistory.cfm
+  Nobel 1907　https://www.nobelprize.org/prizes/physics/1907/michelson/facts/
+  CWRU 克里夫蘭歷史百科　https://case.edu/ech/articles/m/michelson-albert-abraham
+
+▍船艙與高鐵
+25:06 伽利略的船艙
+  MacTutor 英譯節錄　https://mathshistory.st-andrews.ac.uk/Extras/Galileo_Dialogue
+  York U. 講義　https://www.yorku.ca/menary/courses/phys1000/galquote.pdf
+  Wikipedia: Galileo's ship　https://en.wikipedia.org/wiki/Galileo%27s_ship
+28:50 1905 年愛因斯坦在伯恩專利局、相對論論文
+  AIP Einstein exhibit　https://history.aip.org/exhibits/einstein/essay-einstein-relativity.htm
+  Fourmilab 2005　https://www.fourmilab.ch/fourmilog/archives/2005-06/000546.html
+  arXiv 1205.3904　https://arxiv.org/abs/1205.3904
+  Physics Today 書評　https://physicstoday.aip.org/reviews/einsteins-clocks-poincares-maps-empires-of-time
+
+▍同時，不一定同時
+31:32 火車與兩道閃電：同時不一定同時
+  Project Gutenberg 1920 英譯　https://www.gutenberg.org/files/30155/30155-h/30155-h.htm
+33:43 光做的時鐘與時間變慢
+  OpenStax University Physics Vol.3 §5.3 Time Dilation　https://openstax.org/books/university-physics-volume-3/pages/5-3-time-dilation
+35:40 光速九成、九成九、九成九九時時間慢多少（推算）
+
+▍時間真的變慢了
+36:57 緲子從十五公里高空落下、壽命與台北 101 的比較
+  PDG 2020 宇宙射線綜述　https://pdg.lbl.gov/2020/reviews/rpp2020-rev-cosmic-rays.pdf
+  CTBUH: Taipei 101　https://skyscrapercenter.com/building/taipei-101/117
+38:47 1963 年在山頂與海邊數緲子
+  Wikipedia: Experimental testing of time dilation　https://en.wikipedia.org/wiki/Experimental_testing_of_time_dilation
+  APS 歷史遺址 2014-12　https://www.aps.org/apsnews/2014/12/historic-sites-muon-time-dilation-experiment
+39:34 1971 年原子鐘搭客機繞地球
+  Hafele 1971 DTIC 報告　https://apps.dtic.mil/sti/pdfs/ADA489971.pdf
+  HyperPhysics　https://hyperphysics.gsu.edu/hbase/Relativ/airtim.html
+  Wikipedia　https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment
+41:00 衛星定位的時鐘每天快三十八微秒
+  GPS.gov 太空段　https://www.gps.gov/systems/gps/space/
+  Ashby 2003 Living Reviews　https://link.springer.com/article/10.12942/lrr-2003-1
+  Ashby 2002 Physics Today　https://aip.brightspotcdn.com/PTO.v55.i5.41_1.online.pdf
+  Pogge, Ohio State　https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps.html
+
+▍為什麼追不上
+44:13 有質量的東西到不了光速
+  Baez/UCR Physics FAQ: headlights　https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/headlights.html
+  Okun 1989 Physics Today　https://physicstoday.aip.org/features/the-concept-of-mass
+  Baez FAQ: relativistic mass　https://math.ucr.edu/home/baez/physics/Relativity/SR/mass.html
+44:58 大型強子對撞機與 2026 年停機升級
+  CERN Facts and figures　https://home.cern/resources/faqs/facts-and-figures-about-lhc
+  Nikhef 2026-06-29　https://www.nikhef.nl/en/news/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/
+46:02 帕克太陽探測器：人類造過最快的東西
+  NASA SVS 14741　https://svs.gsfc.nasa.gov/14741/
+  NASA Parker 部落格　https://science.nasa.gov/blogs/parker-solar-probe/
+46:35 阿波羅十號的載人速度紀錄
+  Guinness World Records　https://guinnessworldrecords.com/world-records/66125-fastest-speed-achieved-by-humans
+  IFLScience 2026-06-16　https://iflscience.com/artemis-ii-was-expected-to-break-several-records-but-afterwards-one-was-notably-absent-83817
+46:52 光帆計畫與暫停
+  Breakthrough 2016 新聞稿　https://breakthroughinitiatives.org/news/4
+  Scientific American 2025　https://www.scientificamerican.com/article/the-quiet-demise-of-breakthrough-starshot-a-billionaires-interstellar
+47:47 「光看到的世界」為什麼只是比喻
+  Baez FAQ: FTL　https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/FTL.html
+
+▍在水裡，有東西追上了光
+48:43 光在水、玻璃、鑽石和光纖裡變慢
+  OpenStax College Physics 2e 表 25.1　https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction
+  Corning SMF-28 Ultra（2024-02）　https://csmedia.corning.com/media/worldwide/coc/documents/Fiber/product-information-sheets/PI-1424-AEN.pdf
+  CommScope 白皮書（2017-02）　https://www.commscope.com/globalassets/digizuite/2799-latency-in-optical-fiber-systems-wp-111432-en.pdf
+49:16 契忍可夫的藍光
+  Nobel 1958 摘要　https://www.nobelprize.org/prizes/physics/1958/summary/
+  契忍可夫小傳　https://www.nobelprize.org/prizes/physics/1958/cerenkov/biographical/
+  頒獎演說　https://www.nobelprize.org/prizes/physics/1958/ceremony-speech/
+51:10 日本的超級神岡偵測器
+  東大宇宙線研究所 2015-12-07　https://www.icrr.u-tokyo.ac.jp/en/news/8155/
+  超級神岡官方概要　https://www-sk.icrr.u-tokyo.ac.jp/en/sk/about/
+  Nobel 2015　https://www.nobelprize.org/prizes/physics/2015/summary/
+52:18 萊娜・豪讓光變慢、停下來
+  Harvard Magazine 1999　https://harvardmagazine.com/sites/default/files/html/1999/05/right.light.html
+  Harvard Gazette 2001-01-24　https://news.harvard.edu/gazette/2001/01.24/01-stoplight.html
+  Harvard DASH　https://dash.harvard.edu/handle/1/3636967?show=full
+
+▍光在玻璃裡跨過海洋
+54:34 台灣周邊十五條國際海纜
+  數發部 114 年度海纜報告　https://www-api.moda.gov.tw/File/Get/moda/zh-tw/kj9vSvBw5wUeqla
+  中央社 2025-01-10　https://www.cna.com.tw/news/aipl/202501105002.aspx
+55:43 芝加哥到紐約的光纖與微波
+  Light Reading 2010-06-22　https://www.lightreading.com/optical-networking/carrier-pwns-nyc-chicago-latency
+  Laughlin 等 2013 arXiv 1302.5966　https://arxiv.org/abs/1302.5966
+
+發現錯誤歡迎留言，更正會寫在這裡和說明欄。

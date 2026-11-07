@@ -1,0 +1,148 @@
+第 1 集「宇宙有多大」參考資料：依影片中第一次提到的時間排列，點時間可以跳到那一段。
+
+▍開場
+00:00 地球直徑、一公釐的粗砂
+  NASA Earth Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+  USGS OFR 2006-1195　https://pubs.usgs.gov/of/2006/1195/htmldocs/nomenclature.htm
+  Wikipedia: Grain size　https://en.wikipedia.org/wiki/Grain_size
+00:28 太陽的大小、離地球多遠
+  NASA Sun Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
+  IAU 2012 決議 B2　https://iauarchive.eso.org/static/resolutions/IAU2012_English.pdf
+00:28 十元硬幣、葡萄柚、遊覽車、跑道的尺寸
+  中央銀行：流通硬幣　https://www.cbc.gov.tw/public/data/issue/MONEY/a1/T04.htm
+  USDA：佛州葡萄柚分級標準（1997）　https://www.ams.usda.gov/sites/default/files/media/Grapefruit_%28FL%29_Standard%5B1%5D.pdf
+  道路交通安全規則第 38 條修正對照表（臺北市法規）　https://laws.gov.taipei/Law/File/0000264908
+  Wikipedia: Running track　https://en.wikipedia.org/wiki/Running_track
+00:43 比鄰星：最近的另一顆恆星，4.25 光年
+  NASA Imagine：最近的恆星　https://imagine.gsfc.nasa.gov/features/cosmic/nearest_star_info.html
+  Wikipedia: Proxima Centauri　https://en.wikipedia.org/wiki/Proxima_Centauri
+00:43 台北到那霸、馬尼拉、新加坡的直線距離（用城市座標推算）
+  Wikipedia: Taipei　https://en.wikipedia.org/wiki/Taipei
+  Naha　https://en.wikipedia.org/wiki/Naha
+  Manila　https://en.wikipedia.org/wiki/Manila
+  Singapore　https://en.wikipedia.org/wiki/Singapore
+01:04 航海家一號現在在哪、11 月 18 日滿一光日、儀器關閉
+  NASA：Voyager 1 與 2 現在在哪　https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/
+  NASA Voyager 1 任務頁　https://science.nasa.gov/mission/voyager/voyager-1/
+  JPL 2026-04-17 新聞　https://www.jpl.nasa.gov/news/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/
+
+▍月亮和太陽
+03:14 月亮的大小與距離
+  NASA Moon Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html
+04:17 月亮每年遠離約 3.8 公分
+  NASA Eclipse：Apollo Laser Ranging　https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html
+05:20 太陽佔太陽系 99.8% 的質量
+  NASA Sun Facts　https://science.nasa.gov/sun/facts/
+06:49 一光年有多長、光速
+  NASA：How Big Is Space　https://science.nasa.gov/universe/exoplanets/our-milky-way-galaxy-how-big-is-space/
+  Wikipedia: Light-year　https://en.wikipedia.org/wiki/Light-year
+07:49 各行星離太陽的距離與大小
+  NASA Planetary Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+  Jupiter Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html
+08:32 海王星、土星離太陽多遠
+  NASA Neptune Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html
+  NASA Saturn Fact Sheet　https://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html
+
+▍太陽系的邊緣
+10:20 台北 101 高度、台灣的尺寸
+  CTBUH：Taipei 101　https://skyscrapercenter.com/building/taipei-101/117
+  行政院國情簡介：地理　https://www.ey.gov.tw/state/4447F4A951A1EC45/094b1d53-de8d-4393-bde6-ab092969cce4
+  行政院：環島一號線　https://www.ey.gov.tw/Page/9277F759E41CCD91/a236ca87-7f7b-4562-81d1-ecd2d6cd54fd
+  行政院：高鐵南港站　https://www.ey.gov.tw/Page/448DE008087A1971/ae3b85eb-9dff-4a31-8cfb-b524fd3a5bc6
+11:11 兩艘航海家的旅程
+  NASA Voyager 2　https://science.nasa.gov/mission/voyager/voyager-2/
+11:25 航海家金唱片
+  NASA Golden Record Contents　https://science.nasa.gov/mission/voyager/golden-record-contents/
+  NASA Greetings　https://science.nasa.gov/mission/voyager/golden-record-contents/greetings/
+14:13 暗淡藍點
+  JPL PIA23645　https://www.jpl.nasa.gov/images/pia23645-pale-blue-dot-revisited/
+  NASA Photojournal　https://science.nasa.gov/photojournal/solar-system-portrait-earth-as-pale-blue-dot
+15:42 航海家一號穿過日球層頂，但還沒離開太陽系
+  JPL 2013-09-12 新聞　https://www.jpl.nasa.gov/news/nasa-spacecraft-embarks-on-historic-journey-into-interstellar-space/
+  JPL 2018-12 Voyager 2 新聞　https://www.jpl.nasa.gov/news/nasas-voyager-2-probe-enters-interstellar-space/
+  JPL Voyager FAQ　https://voyager.jpl.nasa.gov/frequently-asked-questions/
+16:14 航海家二號穿過日球層頂
+  Stone 等 2019, Nature Astronomy　https://arxiv.org/abs/1912.02476
+  JPL 2018-12-10 新聞　https://www.caltech.edu/about/news/jpl-news-nasas-voyager-2-probe-enters-interstellar-space-84606
+16:36 航海家一號的速度
+  NASA Voyager 1　https://science.nasa.gov/mission/voyager/voyager-1/
+18:15 歐特雲（推測）的範圍
+  NASA Oort Cloud Facts　https://science.nasa.gov/solar-system/oort-cloud/facts/
+  NASA Oort Cloud 總覽　https://science.nasa.gov/solar-system/oort-cloud/
+19:40 航海家一號四萬年後經過的暗星
+  NASA：Reaching the Stars　https://www.nasa.gov/image-article/reaching-stars
+  NASA Photojournal PIA17461　https://science.nasa.gov/photojournal/heading-toward-gliese-445
+
+▍最近的恆星
+21:57 比鄰星 b
+  ESO eso1629　https://www.eso.org/public/news/eso1629/
+  Faria 等 2022　https://arxiv.org/pdf/2202.05188
+24:08 肉眼看得到幾顆星
+  Sky & Telescope 2014-09-17　https://skyandtelescope.org/astronomy-resources/how-many-stars-night-sky-09172014/
+24:34 天狼星
+  NASA Night Sky Network　https://nightsky.jpl.nasa.gov/news/428
+
+▍我們住的銀河
+26:18 銀河系的大小、恆星數、我們的位置
+  IAC 2018 新聞　https://www.iac.edu.es/en/outreach/news/disc-milky-way-bigger-we-thought
+  GRAVITY 2019　https://export.arxiv.org/abs/1904.05721
+26:41 蓋亞衛星與它的星表
+  ESA Gaia Fact Sheet　https://sci.esa.int/web/gaia/-/31197-fact-sheet
+  Gaia DR3　https://www.cosmos.esa.int/web/gaia/dr3
+  ESA Gaia end of observations　https://www.cosmos.esa.int/web/gaia/end-of-observations
+27:39 銀河系盤面的厚度
+  STScI 2025-06-26　https://www.stsci.edu/contents/news-releases/2025/news-2025-121
+29:43 合歡山暗空公園
+  遠見 城市　https://city.gvm.com.tw/article/68021
+
+▍隔壁的仙女座
+30:33 1920 年大辯論與哈伯的發現
+  NASA：Hubble Views the Star that Changed the Universe　https://science.nasa.gov/missions/hubble/hubble-views-the-star-that-changed-the-universe/
+  Carnegie Science　https://carnegiescience.edu/node/3028
+  APOD：Great Debate　https://apod.nasa.gov/debate/1920/cs_real.html
+32:52 仙女座：約一兆顆恆星、肉眼可見
+  NASA Hubble：Andromeda 2025-01-16　https://science.nasa.gov/missions/hubble/nasas-hubble-traces-hidden-history-of-andromeda-galaxy/
+33:13 本星系群、仙女座的距離與接近速度
+  NASA Imagine：Local Group　https://imagine.gsfc.nasa.gov/features/cosmic/local_group_info.html
+  NASA Hubble M31　https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/
+  van der Marel 2012　https://arxiv.org/abs/1205.6864v1
+34:14 銀河系和仙女座相遇的機率
+  Sawala 等 2025　https://www.nature.com/articles/s41550-025-02563-1
+  赫爾辛基大學新聞稿　https://www.helsinki.fi/en/news/space/no-certainty-about-predicted-milky-way-andromeda-collision
+
+▍無垠的天空
+35:51 拉尼亞凱亞超星系團
+  Tully 等 2014　https://www.nature.com/articles/nature13674
+  夏威夷大學 2014 新聞　https://www.hawaii.edu/news/2014/09/03/uh-scientist-maps-supercluster-of-galaxies-names-it-laniakea/
+  Valade 等 2024　https://www.nature.com/articles/s41550-024-02370-0
+  AIP 新聞　https://aip.de/en/news/cosmography-mega-structures
+37:45 宇宙網：細絲與空洞
+  ESA Euclid：五大謎題　https://www.esa.int/Science_Exploration/Space_Science/Euclid/Top_five_mysteries_Euclid_will_help_solve
+
+▍看得到的最遠處
+39:47 宇宙年齡約 138 億年
+  Planck 2018 VI　https://arxiv.org/pdf/1807.06209v4
+  ACT DR6　https://arxiv.org/pdf/2503.14452v2
+  康乃爾大學 2025-03-19 新聞　https://as.cornell.edu/news/clearest-images-yet-380000-year-old-baby-universe-released
+41:03 目前最遠的星系
+  NASA Webb 2026-01-28　https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/
+41:31 宇宙微波背景
+  NASA Universe Overview　https://science.nasa.gov/universe/overview/
+42:46 哈伯與韋伯的深空照片
+  NASA：What Is the Hubble Space Telescope　https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-hubble-space-telescope-grades-k-4/
+  NASA Hubble Deep Fields　https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-deep-fields/
+  NASA Webb 2022-07-12　https://science.nasa.gov/missions/webb/nasas-webb-delivers-deepest-infrared-image-of-universe-yet/
+44:41 看得到的宇宙半徑約 465 億光年
+  NRAO Ask an Astronomer　https://public.nrao.edu/ask/inconsistency-between-the-age-and-diameter-of-the-universe/
+45:51 可觀測宇宙有多少星系
+  Conselice 等 2016　https://arxiv.org/abs/1607.03909v2
+  STScI 2021-01-12 新聞稿含更正　https://www.stsci.edu/contents/news-releases/2021/news-2021-001
+
+▍宇宙有沒有盡頭
+47:27 空間幾乎是平的、宇宙有沒有盡頭
+  Planck 2018 VI 摘要　https://ui.adsabs.harvard.edu/abs/2020A%26A...641A...6P/abstract
+  NASA WMAP　https://science.nasa.gov/mission/wmap/wmap-overview/
+  Vardanyan 等 2011　https://arxiv.org/abs/1101.5476v1
+  Baird, WTAMU　http://www.wtamu.edu/~cbaird/sq/2016/01/20/where-is-the-edge-of-the-universe/
+
+發現錯誤歡迎留言，更正會寫在這裡和說明欄。

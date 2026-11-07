@@ -1,0 +1,42 @@
+name: YouTube 來源留言
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"        # 每 15 分鐘檢查一次；沒到公開時間就什麼都不做
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "yt_comment.py 參數（due 或 check）"
+        required: false
+        default: "check"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: social-post              # 和社群發文共用，避免兩個工作同時提交
+  cancel-in-progress: false
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 來源留言
+        env:
+          YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TZ: Asia/Taipei
+        run: python yt_comment.py ${{ github.event.inputs.args || 'due' }}
+      - name: 提交紀錄
+        if: always()
+        run: |
+          git config user.name "hupotalks-bot"
+          git config user.email "hupotalks-bot@users.noreply.github.com"
+          git add yt_comment_state.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "沒有新紀錄"; else git commit -m "留言紀錄 $(date '+%m/%d %H:%M')" && git pull --rebase -q && git push; fi
