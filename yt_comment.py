@@ -136,8 +136,13 @@ def main():
     if cmd not in ("check", "due"):
         sys.exit(__doc__)
     q, state = load(QUEUE, {"episodes": []}), load(STATE, {})
-    tok = access_token()
     now = datetime.now(timezone.utc)
+    if cmd == "due" and not any(
+            not state.get(ep["id"], {}).get("comment_id")
+            and now >= datetime.fromisoformat(ep["publish_at"].replace("Z", "+00:00")) for ep in q["episodes"]):
+        print("沒有到時間要留言的影片")
+        return
+    tok = access_token()
     bad = 0
     for ep in q["episodes"]:
         key, vid = ep["id"], ep["video_id"]
