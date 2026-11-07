@@ -1,0 +1,86 @@
+{
+  "_說明": "琥珀漫談社群待發清單（GitHub Actions 版）：只發 IG、Threads；FB 已用 Meta 平台排程。approved=true 才會發；at 是台灣時間。發布紀錄 social_post_state.json 由 Actions 自動提交。",
+  "image_base": "https://raw.githubusercontent.com/Chieh4516/hupotalks-social/main/cards/",
+  "posts": [
+    {
+      "id": "e01_p1",
+      "caption": "captions/e01_p1_文案.txt",
+      "at": "2026-11-10T21:00:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e02_p1",
+      "caption": "captions/e02_p1_文案.txt",
+      "at": "2026-11-12T21:00:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e01_p2",
+      "caption": "captions/e01_p2_文案.txt",
+      "at": "2026-11-14T21:00:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e02_p2",
+      "caption": "captions/e02_p2_文案.txt",
+      "at": "2026-11-16T20:10:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e01_v",
+      "caption": "captions/e01_v_文案.txt",
+      "at": "2026-11-18T18:30:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e02_p3",
+      "caption": "captions/e02_p3_文案.txt",
+      "at": "2026-11-20T21:00:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e01_p3",
+      "caption": "captions/e01_p3_文案.txt",
+      "at": "2026-11-22T21:00:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    },
+    {
+      "id": "e02_p4",
+      "caption": "captions/e02_p4_文案.txt",
+      "at": "2026-11-24T21:00:00+08:00",
+      "platforms": [
+        "ig",
+        "threads"
+      ],
+      "approved": true
+    }
+  ]
+}
