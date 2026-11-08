@@ -121,7 +121,6 @@
 48:43 光在水、玻璃、鑽石和光纖裡變慢
   OpenStax College Physics 2e 表 25.1　https://openstax.org/books/college-physics-2e/pages/25-3-the-law-of-refraction
   Corning SMF-28 Ultra（2024-02）　https://csmedia.corning.com/media/worldwide/coc/documents/Fiber/product-information-sheets/PI-1424-AEN.pdf
-  CommScope 白皮書（2017-02）　https://www.commscope.com/globalassets/digizuite/2799-latency-in-optical-fiber-systems-wp-111432-en.pdf
 49:16 契忍可夫的藍光
   Nobel 1958 摘要　https://www.nobelprize.org/prizes/physics/1958/summary/
   契忍可夫小傳　https://www.nobelprize.org/prizes/physics/1958/cerenkov/biographical/
