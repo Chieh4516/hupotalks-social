@@ -1,17 +1,66 @@
 {
   "_說明": "琥珀漫談 YouTube 來源留言清單：publish_at（UTC）之後、影片公開了才發；發完開 Issue 提醒到 Studio 手動做 studio_todo。紀錄在 yt_comment_state.json。",
   "episodes": [
-    {"id": "e01", "no": 1, "title": "宇宙有多大", "video_id": "gdFkl2RGE7g", "publish_at": "2026-11-16T12:00:00Z",
-     "comment_file": "yt_comments/e01.txt",
-     "studio_todo": ["把來源留言置頂（留言旁「⋮」→ 置頂）", "取消「允許自動新增地點」", "取消「允許自動顯示概念」", "確認付費宣傳為「否」", "播放清單「全部集數」「太空」改公開", "測試片 gQ5pPuNz-Uc 移出播放清單（維持私人、不刪）"]},
-    {"id": "e02", "no": 2, "title": "追不上光", "video_id": "cnp2tJCZlj4", "publish_at": "2026-11-16T12:05:00Z",
-     "comment_file": "yt_comments/e02.txt",
-     "studio_todo": ["把來源留言置頂（留言旁「⋮」→ 置頂）", "取消「允許自動新增地點」", "取消「允許自動顯示概念」", "確認付費宣傳為「否」"]},
-    {"id": "e03", "no": 3, "title": "古埃及的一天", "video_id": "dEoRyDhT7eM", "publish_at": "2026-11-23T12:00:00Z",
-     "comment_file": "yt_comments/e03.txt",
-     "studio_todo": ["把來源留言置頂（留言旁「⋮」→ 置頂）", "取消「允許自動新增地點」", "取消「允許自動顯示概念」", "確認付費宣傳為「否」", "播放清單「歷史」改公開"]},
-    {"id": "e04", "no": 4, "title": "海水為什麼是鹹的", "video_id": "YUIrso08doI", "publish_at": "2026-11-30T12:00:00Z",
-     "comment_file": "yt_comments/e04.txt",
-     "studio_todo": ["把來源留言置頂（留言旁「⋮」→ 置頂）", "取消「允許自動新增地點」", "取消「允許自動顯示概念」", "確認付費宣傳為「否」", "播放清單「地球」（PLOSOU916iBto）改公開"]}
+    {
+      "id": "e01",
+      "no": 1,
+      "title": "宇宙有多大",
+      "video_id": "gdFkl2RGE7g",
+      "publish_at": "2026-11-16T12:00:00Z",
+      "comment_file": "yt_comments/e01.txt",
+      "studio_todo": [
+        "把來源留言置頂（留言旁「⋮」→ 置頂）",
+        "取消「允許自動新增地點」",
+        "取消「允許自動顯示概念」",
+        "確認付費宣傳為「否」",
+        "播放清單「全部集數」「太空」改公開",
+        "測試片 gQ5pPuNz-Uc 移出播放清單（維持私人、不刪）",
+        "自訂 →「首頁」分頁：新增版面「頻道宣傳短片」（給未訂閱觀眾）選第 1 集、「主打影片（專為回訪訂閱者播放）」選第 2 集，按發布"
+      ]
+    },
+    {
+      "id": "e02",
+      "no": 2,
+      "title": "追不上光",
+      "video_id": "cnp2tJCZlj4",
+      "publish_at": "2026-11-16T12:05:00Z",
+      "comment_file": "yt_comments/e02.txt",
+      "studio_todo": [
+        "把來源留言置頂（留言旁「⋮」→ 置頂）",
+        "取消「允許自動新增地點」",
+        "取消「允許自動顯示概念」",
+        "確認付費宣傳為「否」"
+      ]
+    },
+    {
+      "id": "e03",
+      "no": 3,
+      "title": "古埃及的一天",
+      "video_id": "dEoRyDhT7eM",
+      "publish_at": "2026-11-23T12:00:00Z",
+      "comment_file": "yt_comments/e03.txt",
+      "studio_todo": [
+        "把來源留言置頂（留言旁「⋮」→ 置頂）",
+        "取消「允許自動新增地點」",
+        "取消「允許自動顯示概念」",
+        "確認付費宣傳為「否」",
+        "播放清單「歷史」改公開"
+      ]
+    },
+    {
+      "id": "e04",
+      "no": 4,
+      "title": "海水為什麼是鹹的",
+      "video_id": "YUIrso08doI",
+      "publish_at": "2026-11-30T12:00:00Z",
+      "comment_file": "yt_comments/e04.txt",
+      "studio_todo": [
+        "把來源留言置頂（留言旁「⋮」→ 置頂）",
+        "取消「允許自動新增地點」",
+        "取消「允許自動顯示概念」",
+        "確認付費宣傳為「否」",
+        "播放清單「地球」（PLOSOU916iBto）改公開"
+      ]
+    }
   ]
 }
