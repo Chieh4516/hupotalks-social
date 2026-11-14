@@ -111,6 +111,66 @@
     "threads"
    ],
    "approved": true
+  },
+  {
+   "id": "e04_p1",
+   "caption": "captions/e04_p1_文案.txt",
+   "at": "2026-11-28T21:00:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
+  },
+  {
+   "id": "e04_p2",
+   "caption": "captions/e04_p2_文案.txt",
+   "at": "2026-11-30T20:10:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
+  },
+  {
+   "id": "e04_p3",
+   "caption": "captions/e04_p3_文案.txt",
+   "at": "2026-12-02T21:00:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
+  },
+  {
+   "id": "e05_p1",
+   "caption": "captions/e05_p1_文案.txt",
+   "at": "2026-12-05T21:00:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
+  },
+  {
+   "id": "e05_p2",
+   "caption": "captions/e05_p2_文案.txt",
+   "at": "2026-12-07T20:10:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
+  },
+  {
+   "id": "e05_p3",
+   "caption": "captions/e05_p3_文案.txt",
+   "at": "2026-12-09T21:00:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
   }
  ]
 }
