@@ -1,0 +1,127 @@
+第 6 集「時間是什麼」參考資料（依影片時間排列，點時間可跳到那一段）
+
+00:10 頭比腳老：一輩子不到一百萬分之一秒（推算）
+00:17 抬高三十三公分、一輩子多老十億分之九十秒
+  Chou 等 2010　https://tf.nist.gov/general/pdf/2447.pdf
+00:59 奧古斯丁：沒有人問我，我知道（約一千六百多年前）
+  Gutenberg Pusey…　https://www.gutenberg.org/files/3296/3296-h/3296-h.htm
+03:34 石英每秒振動三萬兩千七百六十八次、1927 年第一台石英鐘
+  NIST 計時 FAQ　https://www.nist.gov/pml/time-and-frequency-division/timekeeping-and-clocks-faqs
+04:38 1969 年第一支上市的石英錶、四十五萬日圓
+  精工博物館　https://museum.seiko.co.jp/en/knowledge/Quartz01/
+05:12 一般石英鐘一個月可能差十幾秒
+  Lombardi, NIST…　https://tf.nist.gov/general/pdf/2429.pdf
+05:24 手機從網路與電信網路對時
+  Android 官方文件　https://source.android.com/docs/core/connect/time
+05:52 撥 117：每十秒一聲嗶
+  NOWnews 2026-06…　https://www.nownews.com/news/6851274
+06:33 楊梅的國家時間和世界標準最多差五奈秒
+  BIPM Table 4 20…　https://webtai.bipm.org/ftp/pub/tai/annual-reports/bipm-annual-report/table4/table4_2025.pdf
+08:10 棺材蓋上的星表把夜晚切成十二段
+  Scientific Amer…　https://www.scientificamerican.com/article/stars-of-the-dead/
+09:20 柏林的影子鐘、帝王谷的日晷石片
+  McMaster 古埃及天文資…　https://aea.mcmaster.ca/index.php/en/database/sundials/l-shaped/sl-berlin-aem-19744
+10:20 卡納克水鐘與十二列刻度
+  McMaster 資料庫 WC…　https://aea.mcmaster.ca/index.php/en/database/water-clocks/wco-1-amenhotep-iii-karnak
+12:13 伽利略與比薩大教堂的吊燈（故事與今天那盞燈）
+  伽利略博物館　https://brunelleschi.imss.fi.it/itineraries/place/CathedralOfSantaMaria.html
+13:24 失明的伽利略口述擺鐘設計
+  RHUL Johnstone　https://www.cs.rhul.ac.uk/~adrian/timekeeping/galileo
+13:49 惠更斯 1656 年的擺鐘
+  Linda Hall Libr…　https://lindahall.org/christian-huygens
+15:33 1714 年經度法案與獎金；地球一小時轉十五度
+  RMG 法案手稿 PDF　https://www.rmg.co.uk/sites/default/files/import/media/pdf/Longitude_Act_3.pdf
+16:07 1707 年艦隊觸礁、數學家奔走促成經度法案
+  RMG　https://www.rmg.co.uk/stories/time/what-made-search-longitude-so-important
+16:52 哈里遜的 H4：一點四五公斤
+  RMG H4 典藏頁　https://www.rmg.co.uk/collections/objects/rmgc-object-79142
+17:24 H4 到牙買加只差五秒、巴貝多七週不到四十秒
+  Gould（澳洲海軍歷史協會轉…　https://navyhistory.au/longitude-and-chronometers-of-the-18th-century/4/
+17:57 獎金先付一部分、一萬英鎊；H4 收藏在格林威治
+  RMG 閉館頁　https://www.rmg.co.uk/royal-observatory/plan-your-visit/closures
+19:22 布里斯托慢十分鐘、英國鐵路統一時間
+  RMG: GMT　https://www.rmg.co.uk/stories/time/greenwich-mean-time-gmt
+20:16 美國兩個中午的那一天、1918 年立法
+  美國國會圖書館法律部落格 20…　https://blogs.loc.gov/law/2024/11/whose-time-is-it-anyway-a-brief-history-of-standardized-time-zones-in-the-united-states/
+20:53 1884 年華盛頓會議二十一比一
+  會議議事錄（Gutenberg）　https://www.gutenberg.org/files/17759/17759.txt
+21:35 1896 年台灣開始用東經一百二十度的時間
+  日本國立天文台曆計算室　https://eco.mtk.nao.ac.jp/koyomi/wiki/C9B8BDE0BBFE.html
+21:49 1937 年撥快一小時、1945 年撥回
+  Wikipedia: Time…　https://en.wikipedia.org/wiki/Time_in_Taiwan
+22:04 台灣最後一次日光節約：1979 年
+  莊育承考據 2014　https://blog.yorkxin.org/posts/2014/07/11/dst-in-taiwan-study/
+22:50 以前一秒是一天的八萬六千四百分之一
+  NIST: Second, t…　https://www.nist.gov/si-redefinition/second/second-past
+23:15 1955 年艾森的銫原子鐘：四百六十三公斤、三百年差一秒
+  科學博物館集團 1962-59　https://collection.sciencemuseumgroup.org.uk/objects/co855/caesium-atomic-clock-1955
+24:12 1967 年：九十一億九千多萬次起伏是一秒
+  BIPM CGPM 13 決議…　https://www.bipm.org/en/committees/cg/cgpm/13-1967/resolution-1
+25:21 世界時間：八、九十個實驗室、四百多台原子鐘事後算出
+  BIPM 2024-02-23　https://www.bipm.org/en/-/2024-02-23-circulart-updates
+26:04 噴泉鐘一億年差不到一秒、全世界不到二十台
+  NIST 2025-04　https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time
+26:38 2026 年大會：先不改秒的定義，目標 2030 年
+  BIPM CGPM 2026…　https://www.bipm.org/en/cgpm-2026/resolution-4
+27:51 巴比倫日食紀錄：一天每世紀長約 1.8 毫秒
+  Stephenson 等 20…　https://pmc.ncbi.nlm.nih.gov/articles/PMC5247521/
+29:18 月球每年遠離約三點八公分
+  NASA JPL 2019-0…　https://jpl.nasa.gov/news/the-apollo-experiment-that-keeps-on-giving/
+29:46 四億年前的珊瑚：一年約四百天（推算一天約二十二小時）
+  古生物研究所 PRI 2023…　https://priweb.org/blog-post/john-wells-and-coral-geochronometry
+30:35 七千萬年前的貝殼：一年三百七十二天
+  AGU 新聞稿 2020-03…　https://news.agu.org/press-release/ancient-shell-shows-days-were-half-hour-shorter-70-million-years-ago/
+31:16 2024 年 7 月 5 日：最短的一天
+  The Weather Net…　https://www.theweathernetwork.com/en/news/science/earth-science/earth-shortest-day-for-2025-was-july-10-but-scientists-arent-sure-why
+31:57 二十七次閏秒、最後一次在台灣 2017 年元旦早上
+  IERS Bulletin C　https://datacenter.iers.org/data/latestVersion/bulletinC.txt
+32:47 負閏秒的可能，以及冰融化讓它延後
+  Scimex 新聞稿　https://www.scimex.org/newsfeed/climate-change-is-messing-with-timekeeping
+33:22 2027 年 5 月 20 日起不再插入閏秒
+  BIPM CGPM 2026…　https://www.bipm.org/committees/cg/cgpm/28-2026/resolution-5
+34:41 「時間讓一切不同時發生」來自 1919 年的科幻小說
+  Quote Investiga…　https://quoteinvestigator.com/2019/07/06/time/
+35:50 愛丁頓 1927 年演講與「時間之箭」
+  Gutenberg #72963　https://www.gutenberg.org/ebooks/72963
+36:54 洗牌：五十二張牌的排法（推算）
+38:14 費曼：倒播影片、不是不可能只是機率極小
+  費曼講義 46　https://www.feynmanlectures.caltech.edu/I_46.html
+38:45 過去假說：宇宙一開始很整齊
+  SEP: Thermodyna…　https://plato.stanford.edu/entries/time-thermo/
+39:56 1729 年黑櫃子裡的含羞草、1832 年約二十二小時
+  Scientific Amer…　https://www.scientificamerican.com/blog/a-blog-around-the-clock/clock-classics-it-all-started-with-the-plants/
+41:27 果蠅的基因與 2017 年諾貝爾獎
+  NIH 2017-10-02　https://www.nih.gov/news-events/news-releases/nih-grantees-win-2017-nobel-prize-physiology-or-medicine
+42:07 人的生理時鐘平均二十四小時十一分
+  美國國家老化研究所新聞稿 19…　https://www.eurekalert.org/pub_releases/1999-06/NIoA-EtrR-250699.php
+42:44 腦中約四萬多個神經元的小中心、光對時
+  Cold Spring Har…　https://pmc.ncbi.nlm.nih.gov/articles/PMC3281753
+43:39 1877 年的比例說
+  James, Principl…　https://psychclassics.yorku.ca/James/Principles/prin15.htm
+44:10 調查：過去一年的速度感沒有年齡差
+  PubMed 16512313　https://pubmed.ncbi.nlm.nih.gov/16512313/
+45:02 假期悖論
+  The Marginalian…　https://www.themarginalian.org/2013/07/15/time-warped-claudia-hammond/
+45:51 發燒時數到六十變快
+  Wearden 綜述（Keel…　https://www.keele.ac.uk/media/keeleuniversity/facnatsci/schpsych/weardenpublications/wearden_origins.pdf
+47:14 1960 年哈佛二十二公尺的塔
+  Pound & Rebka 1…　https://faculty.cst.temple.edu/~tuf43817/PHYS4702/F15/PoundRebka.pdf
+48:28 晴空塔上的鐘每天快約十億分之四秒
+  Nature Photonics　https://www.nature.com/articles/s41566-020-0619-8
+49:22 台北 101 觀景台、住十樓（推算）
+  觀光署 101 頁面　https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=7927
+49:50 2022 年：相差一公釐也量得到
+  NIST 2022-02-16　https://www.nist.gov/node/1693351
+50:43 在太空待最久的太空人少老約百分之三秒（推算）
+  Live Science 20…　https://www.livescience.com/space/space-exploration/russian-cosmonaut-returns-to-earth-after-completing-record-breaking-1-111th-day-in-space
+51:28 哥德爾送給愛因斯坦的旋轉宇宙
+  SEP: Time Travel　https://plato.stanford.edu/entries/time-travel/
+52:09 薩根的小說與索恩的蟲洞
+  Princeton Alumn…　https://paw.princeton.edu/article/physicist-hollywood
+52:51 撞球悖論與自洽解
+  OSTI：Echeverria…　https://www.osti.gov/biblio/5219973
+53:53 霍金的時序保護猜想與未來的觀光客
+  ADS 摘要　https://ui.adsabs.harvard.edu/abs/1992PhRvD..46..603H/abstract
+54:26 2009 年霍金的時間旅行者派對
+  IFLScience 2022…　https://www.iflscience.com/why-did-no-one-come-to-stephen-hawkings-time-traveler-party-64609
+發現錯誤歡迎留言，更正會寫在這裡和說明欄。
