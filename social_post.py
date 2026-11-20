@@ -21,6 +21,7 @@ FB 粉專、Instagram、Threads 用官方 API 發「圖卡＋文案」。FB 可�
    "posts": [{"id": "e01_p1", "caption": "episodes/…/社群預告/e01_p1_文案.txt", "at": "2026-11-10T21:00+08:00",
               "platforms": ["fb","ig","threads"], "approved": false}]}
 文案檔格式：本文，接著【FB／Threads 結尾】【IG 結尾】【IG／FB 標籤】【Threads 主題】幾段；以「（」開頭的行是給人看的備註，不發出去。
+短影音（2026-11-20）：清單項目加 "video": "檔名"（放 reels/，video_base 開頭）就改發 IG Reels、Threads 影片；FB Reels 只用 schedule_fb 平台排程。
 發布紀錄：social_post_state.json（每則每個平台的貼文 ID 與時間；發過不重發）、social_post_log.jsonl。
 """
 import json
@@ -207,20 +208,45 @@ def image_url(q, post):
     return q["image_base"] + post.get("image", post["id"] + ".jpg")
 
 
+def video_url(q, post):
+    """短影音（2026-11-20）：清單項目有 "video" 就發 Reels／Threads 影片；檔案放 repo 的 reels/。"""
+    v = post.get("video")
+    return (q.get("video_base", "https://raw.githubusercontent.com/Chieh4516/hupotalks-social/main/reels/") + v) if v else None
+
+
 # ---------- 發布 ----------
-def wait_ready(base, cid, token, field):
-    for _ in range(20):
+def wait_ready(base, cid, token, field, tries=20, gap=3):
+    for _ in range(tries):
         st = call("GET", f"{base}/{cid}", {"fields": field, "access_token": token}).get(field, "")
         if st in ("FINISHED", ""):
             return
         if st in ("ERROR", "EXPIRED"):
             raise ApiError(f"容器狀態 {st}")
-        time.sleep(3)
-    raise ApiError("容器 60 秒內沒有準備好")
+        time.sleep(gap)
+    raise ApiError(f"容器 {tries * gap} 秒內沒有準備好")
 
 
 def publish(platform, q, post, really=True):
-    txt, img = compose(post), image_url(q, post)
+    txt, img, vid = compose(post), image_url(q, post), video_url(q, post)
+    if vid and platform == "ig":       # Reels（2026-11-20 實測約 25 秒處理完）
+        igid, t = ig_account()
+        c = call("POST", f"{FB}/{igid}/media", {"media_type": "REELS", "video_url": vid, "caption": txt["ig"],
+                                                "share_to_feed": "true", "access_token": t})["id"]
+        wait_ready(FB, c, t, "status_code", tries=40, gap=6)
+        if not really:
+            return f"（測試：Reels 容器 {c} 已建立、未發布）"
+        return call("POST", f"{FB}/{igid}/media_publish", {"creation_id": c, "access_token": t})["id"]
+    if vid and platform == "threads":  # Threads 影片（約 20 秒處理完）
+        t = th_token()
+        c = call("POST", f"{TH}/me/threads", {"media_type": "VIDEO", "video_url": vid, "text": txt["threads"],
+                                              "topic_tag": txt["topic"] or None, "access_token": t})["id"]
+        wait_ready(TH, c, t, "status", tries=40, gap=6)
+        if not really:
+            return f"（測試：影片容器 {c} 已建立、未發布）"
+        time.sleep(5)
+        return call("POST", f"{TH}/me/threads_publish", {"creation_id": c, "access_token": t})["id"]
+    if vid and platform == "fb":
+        raise ApiError("FB Reels 只用平台排程（schedule_fb），不由 due 直接發")
     if platform == "fb":
         pid, ptok = fb_page_token()
         r = call("POST", f"{FB}/{pid}/photos", {"url": img, "message": txt["fb"],
@@ -261,6 +287,26 @@ def schedule_fb(q, post, state):
         return False
     pid, ptok = fb_page_token()
     txt, img = compose(post), image_url(q, post)
+    if post.get("video"):              # FB 粉專 Reels：上傳後 SCHEDULED（2026-11-20）
+        try:
+            r = call("POST", f"{FB}/{pid}/video_reels", {"upload_phase": "start", "access_token": ptok})
+            req = urllib.request.Request(r["upload_url"], method="POST", data=b"",
+                                         headers={"Authorization": f"OAuth {ptok}", "file_url": video_url(q, post)})
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                up = json.loads(resp.read().decode() or "{}")
+            if not up.get("success"):
+                raise ApiError(f"上傳沒有成功：{up}")
+            call("POST", f"{FB}/{pid}/video_reels", {"upload_phase": "finish", "video_id": r["video_id"], "video_state": "SCHEDULED",
+                                                      "scheduled_publish_time": str(ts), "description": txt["fb"], "access_token": ptok})
+        except ApiError as e:
+            print(f"🔴 {post['id']} fb Reels 排程失敗：{e}")
+            log(id=post["id"], platform="fb", ok=False, error="schedule reel: " + str(e))
+            return False
+        done["fb"] = {"id": r["video_id"], "scheduled_for": post["at"], "at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        save(STATE, state)
+        log(id=post["id"], platform="fb", ok=True, post_id=r["video_id"], scheduled_for=post["at"])
+        print(f"✅ {post['id']} fb Reels 已排程 {post['at']}：{r['video_id']}")
+        return True
     try:
         photo = call("POST", f"{FB}/{pid}/photos", {"url": img, "published": "false", "temporary": "true",
                                                     "access_token": ptok})["id"]
@@ -323,7 +369,7 @@ def main():
     elif cmd == "preview":
         p = find(q, a[1])
         t = compose(p)
-        print(f"圖卡：{image_url(q, p)}\n時間：{p['at']}　平台：{p['platforms']}　核可：{p['approved']}")
+        print(f"{'影片：' + video_url(q, p) if p.get('video') else '圖卡：' + image_url(q, p)}\n時間：{p['at']}　平台：{p['platforms']}　核可：{p['approved']}")
         for k in PLATFORMS:
             print(f"\n===== {k}（{len(t[k])} 字）=====\n{t[k]}")
         print(f"\n===== Threads 主題：{t['topic']}")
