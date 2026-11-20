@@ -29,7 +29,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # 2026-11-20：必須抓最新 main。預設會 checkout 觸發當下的 commit，
+      # 兩次執行幾乎同時觸發時，排隊的第二次會讀到舊的發布紀錄而重發（e02_p3 重複）。
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
