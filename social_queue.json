@@ -182,6 +182,17 @@
     "threads"
    ],
    "approved": true
+  },
+  {
+   "id": "e02_s01",
+   "caption": "captions/e02_s01_文案.txt",
+   "video": "e02_s01.mp4",
+   "at": "2026-11-22T22:00:00+08:00",
+   "platforms": [
+    "ig",
+    "threads"
+   ],
+   "approved": true
   }
  ],
  "video_base": "https://raw.githubusercontent.com/Chieh4516/hupotalks-social/main/reels/"
